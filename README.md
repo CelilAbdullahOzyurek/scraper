@@ -4,7 +4,7 @@ Bir web sitesinin HTML kodunu ve ekran görüntüsünü çeken basit bir araç.
 ## Kurulum
 Bilgisayarınızda eğer yoksa GO yükleyin 
 [Go](https://golang.org/) yükleyin (1.25.5 veya üzeri)
-daha sonra projeyi klonlayıp cd scraper ile dizine gidin 
+daha sonra projeyi klonlayıp ```cd scraper``` ile dizine gidin 
 
 ## Kullanım
 ```
